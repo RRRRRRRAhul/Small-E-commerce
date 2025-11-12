@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./component/Navbar";
 
-import HomePage from "./Pages/HomePage";
-import ProductDetailsPage from "./Pages/ProductDetailsPage";
-import CartPage from "./Pages/CartPage";
-import NotFoundPage from "./Pages/NotFoundPage";
+import HomePage from "./pages/HomePage";
+import ProductDetailsPage from "./pages/ProductDetailsPage";
+import CartPage from "./pages/CartPage";
+import NotFoundPage from "./pages/NotFoundPage";
 
 function App() {
   return (
